@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoteHalper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="camera">Camera</string>
+    <string name="extract">Extract Text</string>
+    <string name="save">Save String to .txt</string>
+    <string name="title_activity_save">SaveActivity</string>
+    <string name="launch">Launch As Website</string>
+    <string name="SMS">Send as Text</string>
+    <string name="saveToFile">Save to File</string>
+    <string name="fileName">File Name:</string>
+    <string name="openFile">Open File</string>
+
+</resources>
