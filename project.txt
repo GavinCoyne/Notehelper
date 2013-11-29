@@ -1,0 +1,45 @@
+COMP3540 – Project
+Fall 2013
+
+1.	The goal
+•	Development of a complete web application that uses a database
+•	This is an individual project.
+2.	The requirements
+•	HTML5 and CSS3 for the user interface. You may use JavaScript as well.
+•	PHP for server side scripting
+•	The application should use at least one database of at least two tables. You should use MySQL on cs.tru.ca.
+3.	Phases
+3.1	Decision of application
+•	You need to decide what kind of web application you want to develop. The application could be a
+o	Board game
+o	User management system
+o	Shopping center
+o	Student record management system
+o	Question and answer
+o	Education program
+o	Any game
+o	…
+•	You do not have to think too big and excellent application.
+•	You can discuss with the instructor when you decide the application to develop.
+•	You need to prepare a document that includes a detail description of the application.
+3.2	User interface
+•	You need to decide what information/data/text the application will show.
+•	You need to decide how the application will interact with the users.
+•	You need to prepare a document that includes the user interface, such as form, menu, contents, with the detail descriptions explaining for what and how they are used.
+3.3	Designing
+•	You need to decide files based on the MVC model.
+•	You need to decide the FSM/algorithm/scenario for the application, with the user input described in 3.2.
+•	You need to decide database tables to use.
+•	You need to prepare a document that includes
+o	Filenames with detail descriptions
+o	FSM, and/or algorithm and/or scenario
+o	Database tables with descriptions
+3.4	Coding and testing
+•	You need to complete the application.
+•	Any incomplete code would not be evaluated.
+4.	Schedule
+Phase 	Due	Grading
+Decision of application	October 29, 2013	10%
+User interface and designing	November 8, 2013	30%
+Coding and testing	November 14, 2013	60%
+
